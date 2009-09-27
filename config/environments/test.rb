@@ -30,4 +30,5 @@ config.action_mailer.delivery_method = :test
 
 config.gem "rspec", :lib => false, :version => ">= 1.2.8"
 config.gem "rspec-rails", :lib => false, :version => ">= 1.2.7.1"
+config.gem "thoughtbot-shoulda", :lib => 'shoulda', :version => ">= 2.10.2"
 
